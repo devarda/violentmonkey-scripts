@@ -1,2 +1,3 @@
 # violentmonkey-scripts
-My collection of enhancement of websites
+
+My webscripts to get rid of annoying popups or add missing features to common websites.
